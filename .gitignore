@@ -1,6 +1,7 @@
 *.log
 *.tcf
 *.out
+/* Ramdom comment 2* */
 *.bin
 *.4cl
 *.aaa
